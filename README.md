@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Shields, @Shields003
 
-- 👀 I’m interested in sdev, cybersecurity, D&D, and BJJ!
+- 👀 I’m interested in SDEV, cybersecurity, D&D, and BJJ!
 
 - 🌱 I’m currently learning UE5, C++, MERN full-stack, and python.
 
