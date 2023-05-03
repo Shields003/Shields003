@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in SDEV, cybersecurity, D&D, and BJJ!
 
-- 🌱 I’m currently learning UE5, C++, MERN full-stack, and python.
+- 🌱 I’m currently learning UE5, MERN full-stack, and python.
 
 - 💞️ I’m looking to collaborate on things :D
 
